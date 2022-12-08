@@ -27,8 +27,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Win10Q-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Win10Q&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Win10Q-ty&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Win10Q-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Win10Q-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Win10Q&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Win10Q&layout=compact&langs_count=6)
