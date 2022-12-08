@@ -13,10 +13,8 @@
 ### **优秀开源项目:**
 
 <a href="https://github.com/acidanthera/OpenCorePkg"><code><img height="40" src="./images/opencore.png"></code></a>
-<a href="https://github.com/dortania/OpenCore-Legacy-Patcher"><code><img height="40" src="./images/OC-Patcher.svg"></code></a>
 <a href="https://github.com/ic005k/OCAuxiliaryTools"><code><img height="40" src="./images/OCAT.png"></code></a>
 <a href="https://github.com/CloverHackyColor/CloverBootloader"><code><img height="40" src="./images/CLOVER.png"></code></a>
-<a href="https://mackie100projects.altervista.org"><code><img height="40" src="./images/clcc.png"></code></a>
 <a href="https://mackie100projects.altervista.org/opencore-configurator/"><code><img height="40" src="./images/occ.png"></code></a>
 
 ### 开源项目
