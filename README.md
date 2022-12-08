@@ -1,4 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Win10Q?theme=rule34">
 
 ## 在校大学生-菜鸡
 
